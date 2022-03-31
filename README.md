@@ -1,8 +1,15 @@
-## Beecrowd (URI Online Judge) ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+<center><img src="https://www.beecrowd.com.br/home/wp-content/uploads/2021/08/beecrowd__roxoVert-300x241.png" alt="logo-beecrowd" width="150" height="120">
 
-Soluções dos problemas do Beecrowd (URI Online Judge) usando a linguagem de Phyton.
+![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+</center>
 
-## Problemas Resolvidos
+## Beecrowd (URI Online Judge)
+
+A Beecrow é uma plataforma que conta com diversos exercícios, divididos em 8 grandes categorias, para ajudar estudantes com programação focada em tópicos específicos.
+
+Este é o repositório para soluções dos problemas do [Beecrowd (URI Online Judge)](https://www.beecrowd.com.br/judge/pt/problems/all?origem=1) usando a linguagem de **Python**.
+
+### Problemas (Resolvidos):
 
 | Problema | Nível | Resolução |
 | :------------------ | :---------- | -----------------: |
@@ -14,8 +21,7 @@ Soluções dos problemas do Beecrowd (URI Online Judge) usando a linguagem de Ph
 
 
 <br>
-<br>
-<br>
-<br>
 
-<center><img src="http://www.ufpb.br/antigo/sites/default/files/_UFPB__1.png" alt="Girl in a jacket" width="124" height="124"> <img src="https://www.beecrowd.com.br/home/wp-content/uploads/2021/08/beecrowd__roxoVert-300x241.png" alt="Girl in a jacket" width="150" height="120"></center>
+Ajuda, dúvidas e/ou informações:
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheushrdantas) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/odantasdev)
